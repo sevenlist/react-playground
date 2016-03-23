@@ -1,0 +1,19 @@
+{
+  "name": "react-playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevenlist/react-playground.git"
+  },
+  "author": "sevenlist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevenlist/react-playground/issues"
+  },
+  "homepage": "https://github.com/sevenlist/react-playground#readme"
+}
